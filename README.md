@@ -2,7 +2,7 @@
 
 Small drink expenses API that is used with the [Workflow app][WF] for iPhone.
 
-The company I currently work provides soft drinks for a nominal cost. The combination of the API and Workflow allows me to easily track costs against it.
+The company I am currently working with provides soft drinks for a nominal cost. The combination of the API and Workflow allows me to easily track costs against it.
 
 ## Prerequisities 
 
@@ -30,7 +30,7 @@ For use with [Workflow][WF]
 * [Drinks Balance][wf2]
 * [Pay Your Balance][wf3]
 
-[jsonbin]:https://www.jsonbin.org
+[jsonbin]:https://jsonbin.org
 [WF]:https://workflow.is
 [now]:https://zeit.co/now
 [wf1]:https://github.com/ryanlewis/drink-expenses/blob/master/workflows/Buy%20A%20Drink.wflow
