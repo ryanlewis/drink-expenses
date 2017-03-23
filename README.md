@@ -2,7 +2,7 @@
 
 Small drink expenses API that is used with the [Workflow app][WF] for iPhone.
 
-The company I am currently working with provides soft drinks for a nominal cost. The combination of the API and Workflow allows me to easily track costs against it.
+The company I am currently working with provides soft drinks for a nominal cost. The combination of this API, [jsonbin.org][jsonbin] and Workflow allows me to easily track costs against it.
 
 ## Prerequisities 
 
