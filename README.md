@@ -1,6 +1,6 @@
 # Drink Expenses
 
-Small drink expenses API that is used with the [Workflow app][WF] for iPhone.
+Small drink expenses API that is used with the [Workflow app][WF] for iPhone. Booya
 
 The company I am currently working with provides soft drinks for a nominal cost. The combination of this API, [jsonbin.org][jsonbin] and Workflow allows me to easily track costs against it.
 
